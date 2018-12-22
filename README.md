@@ -1,2 +1,2 @@
 # Question-Predictor
-This app is developed to help 
+This app is developed to help p
