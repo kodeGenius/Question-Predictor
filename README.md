@@ -1,2 +1,2 @@
 # Question-Predictor
-This app is develope
+This app is developed
