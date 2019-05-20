@@ -1,5 +1,5 @@
 // confirm user's signon
-function signin(username) {
+const signin = function(username) {
 	return username? `Hello ${username}` : `Hello Guest`;// body...
 };
 
